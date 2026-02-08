@@ -130,8 +130,8 @@ cinexa/
 
 ## 👤 Author
 
-> Shaik Misha
-> Jogula Roy
+ Shaik Misha , 
+ Jogula Roy
 
 ---
 
